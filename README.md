@@ -167,9 +167,6 @@ queue.async {
 
 ```
 
-## Enums
-
-
 
 
 
